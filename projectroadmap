@@ -1,0 +1,22 @@
+Find game i want to make
+  found it located at https://www.youtube.com/watch?v=C6jJg9Zan7w&t=1835s
+  
+  Change color of paddles and ball speed
+    DONE 4/20
+    
+  Draw a line to seperate the court using turtle drawing
+    DONE 4/21
+    
+  Add a simple GUI using tkinter
+    DONE 4/23
+  
+  Add a background to the GUI by impleting a png file
+    DONE 4/25
+  
+  Add a button and move it to correct location of the GUI
+    DONE 4/26
+    
+  Make the button functional
+  
+  
+  Implement power ups into the game and pretty it up
